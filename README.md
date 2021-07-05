@@ -30,5 +30,21 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75953873/123673381-c6bbab00-d816-11eb-9c3e-071e394862ac.gif)
 
 
+### 7- Classic Login
+
+![Captura de pantalla (71)](https://user-images.githubusercontent.com/75953873/124405355-c6d71180-dd14-11eb-99c1-918a7ec0d3f2.png)
+
+
+### 8- Modern Login
+
+![Captura de pantalla (75)](https://user-images.githubusercontent.com/75953873/124405377-d7878780-dd14-11eb-9e8d-e927f611f7fe.png)
+
+
+### 9- Space-X Login
+
+![Captura de pantalla (76)](https://user-images.githubusercontent.com/75953873/124405398-e837fd80-dd14-11eb-89ee-138d56ceb9b1.png)
+
+
+
 ##  FREE USE
 #### ~R3LI4NT~
